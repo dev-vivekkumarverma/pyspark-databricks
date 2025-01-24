@@ -4,6 +4,7 @@
 -  pyspark
 -  databricks
 -  kafka
+-  csv, json, parquet, delta, text
 -  batch data processing
 -  stream-processing
 -  s3, ADLS-v2
