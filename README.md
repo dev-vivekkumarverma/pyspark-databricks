@@ -8,4 +8,7 @@
 -  stream-processing
 -  s3, ADLS-v2
 -  unity catalog
-
+-  watermarking
+-  query optimization
+-  AQE ( adaptive query execution )
+  
