@@ -1,4 +1,4 @@
-%md
+
 # **What is Data Skewness?**  
 Data skewness occurs when data is unevenly distributed across partitions in a distributed computing environment, such as an Apache Spark cluster. This means that some partitions have significantly more data than others, leading to workload imbalance and inefficient resource utilization.  
 
